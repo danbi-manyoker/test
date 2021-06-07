@@ -6,7 +6,7 @@
 
 2. After reading into embedding an visual from Voyant into an HTML, I came across an issue with making it work. It ended up being an issue with the HTML not being able to be viewed within the MD preview within the text editor I use.
 
-<iframe style='width: 452px; height: 524px;' src='https://danbi-manyoker.github.io/test/'> </iframe>
+<iframe style='width: 452px; height: 524px;' src='https://danbi-manyoker.github.io/test/index.html'> </iframe>
 
 ---
 
